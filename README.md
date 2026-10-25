@@ -22,7 +22,7 @@ Arduino IDE 2.3.10 - Working code for all 3 sensors
 ### 📊 Live Output
 - Serial Monitor: `MAX:ok IR:60000 MQ:XX BPM:XX`
 - OLED: `HEALTH REPORT DEMO 74 - All Sensors Live`
-
+https://siddhartha-c27.github.io/healthcare-BVRIT/
 ### 📁 Files
 - `healthhypothesis.ino` - Final Arduino code
 - `hardware.jpeg` - Breadboard wiring
