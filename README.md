@@ -28,6 +28,17 @@ https://siddhartha-c27.github.io/healthcare-IOT/
 - `hardware.jpeg` - Breadboard wiring
 - `code logic.jpg` - Code execution proof
 
+- ## 📹 Demo Video - Hardware Working
+
+### Steps shown in video:
+1. Place Finger on MAX30102
+2. Place Palm 2cm away from MQ135
+3. Health Report on OLED
+
+<video src="video-output-00A580BB-DAB2-4504-91CA-0F38AD980B1A-1-compressed.MOV" width="400" controls></video>
+
+Or direct link if video doesn't load: [Click to watch demo](./video-output-00A580BB-DAB2-4504-91CA-0F38AD980B1A-1-compressed.MOV)
+
 ### ▶️ Demo Video
 1-min demo video coming soon!
 
